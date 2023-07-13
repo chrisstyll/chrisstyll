@@ -34,20 +34,11 @@ by University of Cyprus | Department of Computer Engineering | BSc. Computer Eng
 by Cyprus Scientific and Technical Chamber (ETEK) | BSc. Computer Engineering | 2022
 
 #### My Toolkit
+```md
+        Vue.js  Quasar
+            HTML5    CSS3    SCSS
+    JavaScript    Python    Django
+RestApi    Node.js    Bootstrap
+                Tailwind    Docker    Kubernetes
+```
 
-<div style="display: flex; gap:10px; flex-wrap: wrap: justify-content: center; align-items: center;" >
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Vue.js</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Quasar</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">HTML5</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">CSS3</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">SCSS</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">JavaScript</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Python</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Django</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">RestApi</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Node.js</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Bootstrap</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Tailwind</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Docker</span>
-<span style="color: #71dba9; padding: 5px 10px; border: 1px solid #71dba9; border-radius: 8px;">Kubernetes</span>
-</div>
