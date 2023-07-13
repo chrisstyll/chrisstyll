@@ -39,6 +39,8 @@ by Cyprus Scientific and Technical Chamber (ETEK) | BSc. Computer Engineering | 
             HTML5    CSS3    SCSS
     JavaScript    Python    Django
 RestApi    Node.js    Bootstrap
-                Tailwind    Docker    Kubernetes
+      Tailwind    Docker    Kubernetes
+  SQLite   PostgreSQL    MongoDB   GraphQL
+SQL/NoSQL Databases    Chrome Extensions
 ```
 
