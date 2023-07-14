@@ -24,7 +24,7 @@ A **Full-Stack Web Developer** with a passion for creating innovative and user-f
 :trophy: **Degree grade: Excellent - 9.02/10**  
 by University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
 
-:trophy: **Graduated 1st in my department**
+:trophy: **Graduated 1st in my department**  
 by University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
 
 :trophy: **Best Thesis Award - 'Holographic and Gesture-Based Drone Control'**  
@@ -40,7 +40,12 @@ by Cyprus Scientific and Technical Chamber (ETEK) | BSc. Computer Engineering | 
     JavaScript    Python    Django
 RestApi    Node.js    Bootstrap
       Tailwind    Docker    Kubernetes
-  SQLite   PostgreSQL    MongoDB   GraphQL
+ SQLite   PostgreSQL  MongoDB   GraphQL
 SQL/NoSQL Databases    Chrome Extensions
+     Three.js    Email Signatures
+  Canvas API    reCAPTCHA    Honeypot
+ CSRF Prodection   Websockets API
+     Micro-frontends   Module Federation
+   Internationalization (i18n)
 ```
 
