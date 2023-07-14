@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 #### About me
 
-A **Full-Stack Web Developer** with a passion for creating innovative and user-friendly web applications. I am currently based in the mesmerizing island of Cyprus :beach_umbrella:.
+A **Full-Stack Web Developer** passionate about creating innovative and user-friendly web applications. I am currently based in the mesmerizing island of Cyprus :beach_umbrella:.
 
 #### Achievements
 
 :trophy: **Degree grade: Excellent - 9.02/10**  
-by University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
+by the University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
 
 :trophy: **Graduated 1st in my department**  
-by University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
+by the University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
 
 :trophy: **Best Thesis Award - 'Holographic and Gesture-Based Drone Control'**  
-by University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
+by the University of Cyprus | Department of Computer Engineering | BSc. Computer Engineering | 2022
 
 :trophy: **Award of Academic Excellence**  
 by Cyprus Scientific and Technical Chamber (ETEK) | BSc. Computer Engineering | 2022
@@ -44,8 +44,9 @@ RestApi    Node.js    Bootstrap
 SQL/NoSQL Databases    Chrome Extensions
      Three.js    Email Signatures
   Canvas API    reCAPTCHA    Honeypot
- CSRF Prodection   Websockets API
+ CSRF Protection   Websockets API
      Micro-frontends   Module Federation
    Internationalization (i18n)
+         AWS              EC2
 ```
 
